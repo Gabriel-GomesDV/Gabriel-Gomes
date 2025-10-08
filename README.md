@@ -42,7 +42,7 @@ Sistema de organização e produtividade para consultores, com funcionalidades d
 ---
 
 ## 🌎 Onde Me Encontrar
-📩 **Email:** gabriel-gomes@gmail.com
+📩 **Email:** gabriel.gomes.dev@gmail.com
 💼 **LinkedIn:** Em Breve  
 🚀 **GitHub:** [Gabriel](https://github.com/Gabriel-GomesDV/)
 

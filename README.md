@@ -30,21 +30,21 @@ Plataforma para localização de pontos de coleta seletiva e rastreamento de rec
 ### 📝 Lyrun Assessoria
 Sistema de organização e produtividade para consultores, com funcionalidades de gestão de compromissos, alertas e controle pessoal.
 
-🔎 Veja mais projetos no meu repositório 👉 [Meus Projetos](https://github.com/joaoigor789?tab=repositories)
+🔎 Veja mais projetos no meu repositório 👉 [Meus Projetos](https://github.com/Gabriel-GomesDV?tab=repositories)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![João Igor GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoigor789&show_icons=true&theme=react&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoigor789&layout=compact&theme=react)
+![Gabriel GomesGitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-GomesDV&show_icons=true&theme=react&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-GomesDV&layout=compact&theme=react)
 
 ---
 
 ## 🌎 Onde Me Encontrar
 📩 **Email:** gabriel-gomes@gmail.com
 💼 **LinkedIn:** Em Breve  
-🚀 **GitHub:** [Gabriel](https://github.com/joaoigor789)
+🚀 **GitHub:** [Gabriel](https://github.com/Gabriel-GomesDV/)
 
 ---
 

@@ -42,9 +42,9 @@ Sistema de organização e produtividade para consultores, com funcionalidades d
 ---
 
 ## 🌎 Onde Me Encontrar
-📩 **Email:** joaoigor1103@gmail.com  
-💼 **LinkedIn:** [João Igor no LinkedIn](https://www.linkedin.com/in/joao-igor-25b090250/)  
-🚀 **GitHub:** [joaoigor789](https://github.com/joaoigor789)
+📩 **Email:** gabriel-gomes@gmail.com
+💼 **LinkedIn:** Em Breve  
+🚀 **GitHub:** [Gabriel](https://github.com/joaoigor789)
 
 ---
 

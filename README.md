@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Igor Rodrigues Pereira da Silva  
+# 👋 Olá! Eu sou Gabriel Gomes 
 **Desenvolvedor Full Stack Trainer** | 🚀 Java | Spring Boot | Web
 
 ---
